@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.entregasesionuno","l":"ConcatenarTexto"},{"p":"com.entregasesionuno","l":"FuncionConArgumentos"},{"p":"com.entregasesionuno","l":"MainEntregaUno"}];updateSearchResults();
